@@ -6,7 +6,7 @@
 ### Slide with inverted colors:
 ![](https://hostr.co/file/DG8LcqdpLioz/screenshot_20210520-020.png)
 
-This repository hosts the source code of my build of Sent made by [Suckless software](http://tools.suckless.org/sent/). It is based on Sent v1 and different patches have been applied in order to provide the features I like. The list applied patches can be found in the *patches* folder. It features:
+This repository hosts the source code of my build of *Sent* made by [Suckless software](http://tools.suckless.org/sent/). It is based on *Sent* v1 and different patches have been applied in order to provide the features I like. The list applied patches can be found in the *patches* folder. It features:
 
 * It is possible to invert colors for a dark theme (2 patches for this)
 * A custom font (with colors) can be set for all slides
