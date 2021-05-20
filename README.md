@@ -54,11 +54,11 @@ I configured the key bindings that I like. They are all configured in the *confi
 
 | Key binding | Action |
 | :--- | :--- |
-| `Right Arrow | l | j | n | Return | Space | Left Mouse Click` | goes to next slide |
-| `Left Arrow | h | k | p | Backspace | Middle Mouse Click` | goes to previous slide |
+| `Right Arrow / l / j / n / Return / Space / Left Mouse Click` | goes to next slide |
+| `Left Arrow / h / k / p / Backspace / Middle Mouse Click` | goes to previous slide |
 | `i` | inverts color |
 | `r` | reloads presentation file (=refresh) |
-| `Escape | q` | quits *sent* |
+| `Escape / q` | quits *sent* |
 
 # Contact
 You can always reach out to me:
