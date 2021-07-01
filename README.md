@@ -1,10 +1,10 @@
 # My build of Sent v1
 
 ### Slide:
-![](https://hostr.co/file/0nfiS1UDgNDj/screenshot_20210520-019.png)
+![](https://i.postimg.cc/Z5GhP4v1/screenshot-20210520-019.png)
 
 ### Slide with inverted colors:
-![](https://hostr.co/file/DG8LcqdpLioz/screenshot_20210520-020.png)
+![](https://i.postimg.cc/pdKMq4Dy/screenshot-20210520-020.png)
 
 This repository hosts the source code of my build of *Sent* made by [Suckless software](http://tools.suckless.org/sent/). It is based on *Sent* v1 and different patches have been applied in order to provide the features I like. The list applied patches can be found in the *patches* folder. It features:
 
