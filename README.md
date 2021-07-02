@@ -28,7 +28,7 @@ sudo make clean install
 ```
 
 # Usage
-*Sent* can be used simply by launching *sent <presentation_file>*. This program is using text files for slides. An example presentation is available in this repo: check the file called *example*. Additional options
+*Sent* can be used simply by launching *sent <presentation_file>*. This program is using text files for slides. An example presentation is available in this repo: check the file called *example*. Additional arguments can be passed when running *sent*:
 
 ```
 usage: sent [-c fgcolor] [-b bgcolor] [-f font] -i [file]
