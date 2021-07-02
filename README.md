@@ -13,7 +13,7 @@ This repository hosts the source code of my build of *Sent* made by [Suckless so
 * Progress bar at the bottom
 
 # Dependencies
-The following packages are necessary in order to run this build of DWM properly:
+The following packages are necessary in order to run this build of Sent properly:
 
 * farbfeld (to display images)
 * libxft (or libxft-bgra)
