@@ -22,7 +22,7 @@ The following packages are necessary in order to run this build of Sent properly
 Basically, just clone this repository (or download it), compile the build and install it. Type the following commands:
 
 ```
-git clone --depth 1 https://github.com/GSquad934/sent.git
+git clone --depth 1 https://github.com/astsu777/sent.git
 cd sent
 sudo make clean install
 ```
@@ -63,5 +63,5 @@ I configured the key bindings that I like. They are all configured in the *confi
 # Contact
 You can always reach out to me:
 
-* [Twitter](https://twitter.com/gaetanict)
+* [Twitter](https://twitter.com/astsu777)
 * [Email](mailto:gaetan@ictpourtous.com)
